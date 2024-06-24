@@ -9,11 +9,11 @@ project_name = "loanPrediction"
 
 
 list_of_files = [
-    ".github/workflows/.gitkeep",
-    ".github/FUNDING.yml",
-    ".github/workflows/greetings.yml",
-    ".github/ISSUE_TEMPLATE/bug_report.md",
-    ".github/ISSUE_TEMPLATE/feature_request.md",
+    # ".github/workflows/.gitkeep",
+    # ".github/FUNDING.yml",
+    # ".github/workflows/greetings.yml",
+    # ".github/ISSUE_TEMPLATE/bug_report.md",
+    # ".github/ISSUE_TEMPLATE/feature_request.md",
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/utils/__init__.py",
